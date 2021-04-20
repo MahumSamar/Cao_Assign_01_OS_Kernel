@@ -1,5 +1,5 @@
-My final output of the above OS kernel is:
-![img 1](/images/final.png)
+ My final output of the above OS kernel is:
+![img 1](/Cao_Assign/images/final.png)
 
 #### Reference
 1. Youtube Videos
